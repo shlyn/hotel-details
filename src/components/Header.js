@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Logo from "../HI_mk_logo_hiltonbrandlogo_3.jpg";
+import Logo from "../images/HI_mk_logo_hiltonbrandlogo_3.jpg";
 
 const Header = () => {
   return (

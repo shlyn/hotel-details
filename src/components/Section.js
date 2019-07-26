@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import Maps from "../Maps.png";
-import Gallery from "../Gallery.png";
+import Maps from "../images/Maps.png";
+import Gallery from "../images/Gallery.png";
 import amenities from "../data/amenities";
 const Section = ({ title, activeSection, setActiveSection }) => {
   return (

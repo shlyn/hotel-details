@@ -1,9 +1,8 @@
 import React from "react";
-import "./App.css";
 import styled from "styled-components";
 import Header from "./components/Header";
 import Main from "./components/Main";
-import img from "./background.png";
+import img from "./images/background.png";
 
 function App() {
   return (

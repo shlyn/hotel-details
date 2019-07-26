@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Hotel from "../hotelexterior.jpg";
+import Hotel from "../images/hotelexterior.jpg";
 import Menu from "./Menu";
 
 const Main = () => {
