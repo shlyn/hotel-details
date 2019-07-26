@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Maps from "../images/Maps.png";
 import Gallery from "../images/Gallery.png";
 import amenities from "../data/amenities";
+
 const Section = ({ title, activeSection, setActiveSection }) => {
   return (
     <Container>
@@ -55,14 +56,6 @@ const Header = styled.button`
   justify-content: space-between;
   padding: 0 15px;
 `;
-
-// const HeaderText = styled.h1`
-//   border: solid red 5px;
-//   width: 100%;
-//   display: flex;
-//   flex-direction: row;
-//   justif-content: space-between;
-// `;
 
 const OptionsContainer = styled.div`
   justify-items: center;
